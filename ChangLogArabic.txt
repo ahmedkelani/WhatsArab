@@ -1,19 +1,8 @@
-{"version_code":451198,"content":" <p>تحديث
-1.15</p> <li>احبتي مستخدمين نسخة WhatsArab هذه رسالة دعم للمطور</li> <li>يرجى دعمي بالضغط على الإعلان لكي استمر في تطوير النسخة فقط قم بالدخول إلى الموقع وأضغط على الأعلانات لتفيدني</li> <li>هذه الرسالة سيتم ايقافها قريباً</li>
 
-    <p>update 1.15</p>
-    <li>Iloved users
-    WhatsArab copy this
-    message support for the
-    developer</li> 
-    <li>Please support me by
-    clicking on the ad. To
-    continue developing the
-    version just login to the
-    site and click on the ads
-    to benefit me</li> 
-    <li>This message will be
-    discontinued soon</li>
-    
+{"version_code":451198,"content":" <p>سيتم إيقاف هذه الرسالة اليوم في تمام الساعة 9 ليلاً</p> <li>احبتي مستخدمي نسخة WhatsArab هذه رسالة دعم للمطور</li>
+<li>نرجو منكم الدخول إلى الموقع عبر الضغط على كلمة تحديث والضغط على الإعلانات</li> <li>خلال أيام سيتم تحديث النسخة بإضافات ومميزات رهيبة</li>
+
+    <p>This message will be</p> discontinued today at 9:00 pm </ p> <li> Users of the WhatsArab copy will like this developer support message </ li>
+<li> Please login to the site by clicking on the word Update and clicking on ads </ li> <li> Within days, the version will be updated with awesome extensions and features </ li>    
     
 ","url":"http://www.akwhatsapp.com/p/typetextjavascript-srcylx-1.html?m=1" }
