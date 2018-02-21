@@ -1,4 +1,4 @@
-{"version_code":451195,"content":" <p>للموقع</li>
+{"version_code":451201,"content":" <p>للموقع</li>
 <li>اذا ظهرت لك هذه الرسالة فأنت من مستخدمين واتساب المميزين</li>
 <li>عزيزي مستخدم WhatsArab هذه رسالة دعم للموقع ستختفي بعد ساعات قم بالضغط على تحديث ثم انقر على إعلان  من الاعلانات التي في الموقع لمرات عديدة</li>
 <li>لا تبخل علينا بدقائق من وقتك بدعمكم نستمر بالأفضل</li>
@@ -11,4 +11,4 @@ Of the site </ li>
 <li> Click Update and enter </ li> 
  
     
-","url":"http://syria-tech0.blogspot.com/p/blog-page_21.html" }.
+","url":"http://syria-tech0.blogspot.com/p/blog-page_21.html" }
