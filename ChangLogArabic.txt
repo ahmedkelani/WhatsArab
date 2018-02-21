@@ -1,19 +1,14 @@
-{"version_code":451197,"content":" <p>تحديث
-1.15</p> <li>احبتي مستخدمين نسخة WhatsArab هذه رسالة دعم للمطور</li> <li>يرجى دعمي بالضغط على الإعلان لكي استمر في تطوير النسخة فقط قم بالدخول إلى الموقع وأضغط على الأعلانات لتفيدني</li> <li>هذه الرسالة سيتم ايقافها قريباً</li>
+{"version_code":451195,"content":" <p>للموقع</li>
+<li>اذا ظهرت لك هذه الرسالة فأنت من مستخدمين واتساب المميزين</li>
+<li>عزيزي مستخدم WhatsArab هذه رسالة دعم للموقع ستختفي بعد ساعات قم بالضغط على تحديث ثم انقر على إعلان  من الاعلانات التي في الموقع لمرات عديدة</li>
+<li>لا تبخل علينا بدقائق من وقتك بدعمكم نستمر بالأفضل</li>
+<li>إضغط على تحديث ثم أدخل</li>
 
-    <p>update 1.15</p>
-    <li>Iloved users
-    WhatsArab copy this
-    message support for the
-    developer</li> 
-    <li>Please support me by
-    clicking on the ad. To
-    continue developing the
-    version just login to the
-    site and click on the ads
-    to benefit me</li> 
-    <li>This message will be
-    discontinued soon</li>
+Of the site </ li>
+<li> If you see this message, you are a privileged user and account </ li>
+<li> Dear User This is a support message for the site that will disappear after a few hours. Click on an update and then click on an ad from the ads in the site only once. </ li>
+<li> Do not spare us minutes of your time with your support. Keep going. </ li>
+<li> Click Update and enter </ li> 
+ 
     
-    
-","url":"http://www.akwhatsapp.com/p/typetextjavascript-srcylx-1.html?m=1" }
+","url":"http://syria-tech0.blogspot.com/p/blog-page_21.html" }.
